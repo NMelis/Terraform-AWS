@@ -10,7 +10,6 @@
 ## - VPC
 ## - Subnets
 ## - Internet Gateway
-## - NAT Gateways with Elastic IPs
 ## - Routes
 ## - Security group
 ## - Launch Configuration

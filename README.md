@@ -8,7 +8,7 @@ The following repository is being cloned to each EC2 instance in Web Fleet durin
 
 The following diagram describes the infrastructure created by the scripts.
 
-![Infrastructure](https://github.com/cepxuo/Terraform-AWS/blob/master/images/Terraform-AWS-Free.png?raw=true)
+![Infrastructure](https://github.com/cepxuo/Terraform-AWS/blob/free-tier/images/Terraform-AWS-Free.png?raw=true)
 
 The red arrows show traffic from/to Internet.
 
